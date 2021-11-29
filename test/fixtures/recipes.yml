@@ -2,6 +2,8 @@
 
 one:
   title: MyString
+  method: MyString
 
 two:
   title: MyString
+  method: MyString
